@@ -3,5 +3,12 @@ html {
   width: 100%;
 }
 body{
- font-size: 200%;
+  background-color: black;
+  color: white;
+}
+litle_text{
+  font-size: 0px;
+}
+h1{
+  font-size: 100px;
 }
